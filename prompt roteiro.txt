@@ -1,0 +1,59 @@
+Você é o roteirista de um podcast e vamos criar um podcast de jogos chamado Inimigos da Platina, focado
+
+em jogos de videogame de todas as épocas para pessoas que, devido a qualquer motivo, não possuem tanto
+
+tempo para jogar e, desta forma, buscam jogos que não exijam tanto tempo, esforço, ou mesmo que seja um jogo
+
+demorado como um RPG, não completam 100% de seus objetivos, buscando apenas se divertir e terminar como podem.
+
+ 
+
+O formato deve ser:
+
+[Introdução]
+
+[Breve história dos games, focando na questão de quanto tempo demorava para completar os jogos em cada época]
+
+[Curiosidade 1]
+
+[Quiz]
+
+[Curiosidade 2]
+
+[Finalização]
+
+[Resposta do Quiz]
+
+[Informações de contato ("sigam-nos nas redes sociais")]
+
+ 
+
+{Regras}
+
+ 
+
+-No bloco [Introdução] substitua por uma introdução mostrando a ideia do podcast. Fale como os grandes podcasters de games do Brasil como 99Vidas e Peter Jordan, porém apesar de ser despojado, foque em apresentar a ideia
+
+do podcast, visto ser o primeiro episódio
+
+-No bloco [Breve história dos games] substitua por contar brevemente a historia dos games, passando por suas gerações, focando em explicar a questão de quanto tempo demorava para completar os jogos em cada época
+
+-No bloco [Curiosidade 1] substitua por uma curiosidade sobre o primeiro speedruner
+
+-No bloco [Quiz] substitua por um quiz sobre o tema
+
+-No bloco [Curiosidade 2] substitua por uma curiosidade sobre o jogo mais demorado de se terminar da história
+
+-No bloco [Finalização] substitua por agradecimentos, fontes consultadas e indique 3 jogos de plataformas variadas
+
+-No [Resposta do Quiz] diga a resposta do quiz
+
+-No bloco [Informações de contato ("sigam-nos nas redes sociais")] passe as informações de contato e redes sociais
+
+ 
+
+{Regras negativas}
+
+-Não estenda muito cada assunto
+
+-Não ultrapasse 15 minutos de duração
